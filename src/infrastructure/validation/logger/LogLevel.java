@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+/**
+ * 
+ */
+package infrastructure.validation.logger;
+
+/**
+ * @author Navaneeth M Nambiar
+ *
+ */
+public enum LogLevel {
+	ERROR,
+	WARNING,
+	SUCCESS,
+=======
 package infrastructure.validation.logger;
 
 /**
@@ -18,5 +33,6 @@ public enum LogLevel {
 	SUCCESS,
 	
 	/** INFO is an informative message. Eg: start/end of a procedure/transaction */
+>>>>>>> upstream/74_test_harness
 	INFO
 }

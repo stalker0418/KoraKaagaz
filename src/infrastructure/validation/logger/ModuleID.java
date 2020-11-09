@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+/**
+ * 
+ */
+package infrastructure.validation.logger;
+
+/**
+ * @author Navaneeth M Nambiar
+ *
+ */
+
+public enum ModuleID {
+	NETWORKING,
+	PROCESSING,
+	UI,
+=======
 package infrastructure.validation.logger;
 
 /**
@@ -19,5 +35,6 @@ public enum ModuleID {
 	UI,
 	
 	/** Infrastructure refers to the Infrastructure module */
+>>>>>>> upstream/74_test_harness
 	INFRASTRUCTURE
 }

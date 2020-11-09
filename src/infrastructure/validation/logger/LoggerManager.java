@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+/**
+ * 
+ */
+package infrastructure.validation.logger;
+
+/**
+ * @author Navaneeth M Nambiar
+ *
+ */
+public class LoggerManager implements ILogger {
+
+	/**
+	 * 
+	 */
+=======
 package infrastructure.validation.logger;
 
 /**
@@ -9,6 +25,7 @@ package infrastructure.validation.logger;
  */
 public class LoggerManager implements ILogger {
 
+>>>>>>> upstream/74_test_harness
 	protected LoggerManager() {
 		// TODO Auto-generated constructor stub
 	}
